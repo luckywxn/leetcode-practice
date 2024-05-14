@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Exercise_031 {
     public static void main(String[] args){
         Exercise_031 exercise_031 = new Exercise_031();
